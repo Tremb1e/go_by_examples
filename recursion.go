@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-//1 1 2 3 5 8 13 21 34 55...
+//fibonacci:1 1 2 3 5 8 13 21 34 55...
 
 func fibSlice(time int) { //斐波那契数列非递归实现方式(Slice)
 
